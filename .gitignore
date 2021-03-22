@@ -1,0 +1,13 @@
+.DS_Store
+node_modules
+.tmp
+npm-debug.log
+wisdompets/db.sqlite3
+__pycache__/
+*.py[cod]
+.github/ISSUE_TEMPLATE.md
+CONTRIBUTING.md
+.vscode/settings.json
+.github/PULL_REQUEST_TEMPLATE.md
+LICENSE
+NOTICE
