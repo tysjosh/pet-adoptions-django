@@ -1,9 +1,7 @@
 from csv import DictReader
 from datetime import datetime
 from django.core.management import BaseCommand
-
 from adoptions.models import Pet, Vaccine
-
 from pytz import UTC
 
 
