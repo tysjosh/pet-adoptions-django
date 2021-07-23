@@ -5,11 +5,11 @@ A brand-new Django project, defining a data model and fields, querying the datab
 install python3.8
 install django=3.1.1
 
-##Migrations
+## Migrations
 python manage.py makemigrations
 python manage.py migrate
 
-##Run
+## Run
 python manage.py runserver
 
 
